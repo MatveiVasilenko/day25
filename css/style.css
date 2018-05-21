@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+}
+html {
+	font-size: 10px;
+	background: #fff;
+	font-family: 'Lato', sans-serif;
+	height: 100%;
+}
+body {
+	font-size: 2.7rem;
+	min-height: 100%;
+	margin: 0;
+}
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 4.2rem;
+	margin: 1.8rem 0;
+}
+.page {
+	margin: 10rem 13rem;
+	background: #fff;
+	color: #171717;
+	font-size: 1.8rem;
+	line-height: 3.4rem;
+	font-weight: 300;
+	padding: 12rem;
+	box-shadow: 0 0 10rem rgba(0, 0, 0, 0.1);
+}
+.quote {
+	font-size: 2.4rem;
+}
+.kav {
+	font-size: 6rem;
+}
+/* .quote:before {
+	content: "201c";
+} */
+.letter:first-letter {
+	font-family: 'Playfair Display', serif;
+	font-size: 11rem;
+	float: left;
+	padding-right: 2rem;
+	padding-bottom: 1rem;
+	line-height: 8rem;
+}
+p {
+	clear: left;
+}
+.button {
+	width: 26rem;
+	height: 6.8rem;
+	text-align: center;
+	line-height: 6.8rem;
+	border: 1px solid #eaa258;
+	font-weight: 700;
+	margin-top: 4rem;
+	color: #eaa258;
+}
+a {
+	text-decoration: none;
+}
+/* font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', serif; */
